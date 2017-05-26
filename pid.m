@@ -68,5 +68,5 @@ writePosition(sy,105.0/180.0);
 fprintf('arduino and servo\n');
 
 fprintf('DONE');
-
+%lagrange 
 % Aniruddha Ranade
